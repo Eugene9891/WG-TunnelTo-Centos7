@@ -1,4 +1,5 @@
 #initially created here: https://github.com/l-n-s/wireguard-install - but that's a bit outdated currently
+
 #Execute next commands:
 ```
 wget https://raw.githubusercontent.com/l-n-s/wireguard-install/master/wireguard-install.sh -O wireguard-install.sh
